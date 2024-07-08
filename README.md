@@ -1,6 +1,7 @@
 # DrivingAssistantSystem
 
 :wave: ¡Hola, bienvenidos!
+
 En este proyecto, actualmente en progreso :construction:, se estudiará de forma extendida el estado del  arte en simuladores realistas de conducción autónoma, se seleccionarán modelos de aprendizaje automático (aprendizaje profundo) que se ajusten a las necesidades de las imágenes que se van a procesar, y se estudiará (e implementará) el proceso de comunicación en tiempo real del simulador con MATLAB. De forma más concreta, se abordarán los siguientes objetivos específicos:
 
 + Adquirir y sincronizar datos de sensores del simulador. Crear un conjunto de imágenes anotadas para el entrenamiento y validación de los modelos.
