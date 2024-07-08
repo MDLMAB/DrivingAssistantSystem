@@ -1,6 +1,6 @@
-# <span style="color:orange">GUÍA PARA CONSTRUIR AIRSIM EN WINDOWS</span>
+# GUÍA PARA CONSTRUIR AIRSIM EN WINDOWS
 
-## <span style="color:orange">PUNTO DE PARTIDA</span>
+## **PUNTO DE PARTIDA**
 
 ### ¿QUÉ ES AIRSIM?
 
@@ -24,8 +24,7 @@ AirSim es una herramienta muy poderosa para varias áreas de investigación y de
 
 AirSim se integra con Unreal Engine, un motor de juegos de alta fidelidad, lo que proporciona gráficos avanzados y físicas realistas, haciendo de esta combinación una plataforma muy potente para simulación y desarrollo.
 
-
-## <span style="color:orange">AIRSIM EN DrivingAssistantSystem</span>
+## AIRSIM EN DrivingAssistantSystem
 
 El primer paso es descargarse el motor gráfico Unreal Engine dónde construiremos AIRSIM.
 
