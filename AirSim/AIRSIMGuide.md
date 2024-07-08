@@ -24,7 +24,6 @@ AirSim es una herramienta muy poderosa para varias áreas de investigación y de
 
 AirSim se integra con Unreal Engine, un motor de juegos de alta fidelidad, lo que proporciona gráficos avanzados y físicas realistas, haciendo de esta combinación una plataforma muy potente para simulación y desarrollo.
 
-Tras esta pequeña introducción :paperclip:, empezamos la guía de instalación :computer:.
 
 ## <span style="color:orange">AIRSIM EN DrivingAssistantSystem</span>
 
