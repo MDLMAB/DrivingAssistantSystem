@@ -26,10 +26,4 @@ AirSim se integra con Unreal Engine, un motor de juegos de alta fidelidad, lo qu
 
 ## AIRSIM EN DrivingAssistantSystem
 
-El primer paso es descargarse el motor gráfico Unreal Engine dónde construiremos AIRSIM.
-
-> Aquí se incluye el link a la web oficial de Unreal Engine, lo usaremos como motor gráfico base del Simulador: <https://www.unrealengine.com/es-ES/download>
-
-Finalizada la instalación, debemos ingresar una cuenta con una dirección de correo electrónico y una contraseña, en caso de tener. De no ser así será necesario registrarse.
-
-Tras realizar el inicio/registro, es necesario seleccionar la versión de Unreal Engine que se quiere instalar.
+Se añade en el repositorio principal un submodulo de [AirSim](https://github.com/microsoft/AirSim) de Microsoft para iniciar las integraciones en el Simulador.
