@@ -1,6 +1,6 @@
-[submodule "AirSim/vendor/ForkAirSim"]
-	path = AirSim/vendor/ForkAirSim
-	url = git@github.com:microsoft/AirSim.git
 [submodule "vendor/ultralytics"]
 	path = vendor/ultralytics
 	url = git@github.com:ultralytics/ultralytics.git
+[submodule "vendor/AirSim"]
+	path = vendor/AirSim
+	url = git@github.com:microsoft/AirSim.git
