@@ -1,0 +1,3 @@
+[submodule "AirSim/vendor/ForkAirSim"]
+	path = AirSim/vendor/ForkAirSim
+	url = git@github.com:microsoft/AirSim.git
