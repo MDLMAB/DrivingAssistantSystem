@@ -1,5 +1,6 @@
 * text=auto
 
+# MATLAB files
 *.fig binary
 *.mat binary
 *.mdl binary diff merge=mlAutoMerge
@@ -19,10 +20,44 @@
 *.slx binary merge=mlAutoMerge
 *.slxp binary
 
-## Other common binary file types
+# Other common binary file types
 *.docx binary
 *.exe binary
 *.jpg binary
 *.pdf binary
 *.png binary
 *.xlsx binary
+
+# Unreal Engine project files
+*.uproject text
+
+# Unreal Engine assets and maps
+*.uasset binary
+*.umap binary
+
+# Configuration files
+*.ini text
+*.json text
+*.xml text
+
+# Source code files
+*.h text
+*.cpp text
+*.cs text
+
+# Visual Studio files
+*.sln text
+*.vcxproj text
+
+# Documentation
+*.md text
+*.txt text
+*.jpeg binary
+*.ico binary
+
+# Shell scripts
+*.bat text
+*.sh text
+
+# Binary files (typically not versioned)
+*.dll binary
