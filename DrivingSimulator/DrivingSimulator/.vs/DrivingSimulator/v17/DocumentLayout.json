@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CEDB77-296C-46EA-86CE-2A2FEA102AEC}|Intermediate\\ProjectFiles\\DrivingSimulator.vcxproj|C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\Source\\DrivingSimulator\\DrivingSimulatorPawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0CEDB77-296C-46EA-86CE-2A2FEA102AEC}|Intermediate\\ProjectFiles\\DrivingSimulator.vcxproj|solutionrelative:Source\\DrivingSimulator\\DrivingSimulatorPawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD960F8-2302-4C0C-A801-DAFDBB7FB21C}|Intermediate\\ProjectFiles\\UE4.vcxproj|C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\SkyLightComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CEDB77-296C-46EA-86CE-2A2FEA102AEC}|Intermediate\\ProjectFiles\\DrivingSimulator.vcxproj|C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\Source\\DrivingSimulator\\mynewclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0CEDB77-296C-46EA-86CE-2A2FEA102AEC}|Intermediate\\ProjectFiles\\DrivingSimulator.vcxproj|solutionrelative:Source\\DrivingSimulator\\mynewclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrivingSimulatorPawn.h",
+              "DocumentMoniker": "C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\Source\\DrivingSimulator\\DrivingSimulatorPawn.h",
+              "RelativeDocumentMoniker": "Source\\DrivingSimulator\\DrivingSimulatorPawn.h",
+              "ToolTip": "C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\Source\\DrivingSimulator\\DrivingSimulatorPawn.h",
+              "RelativeToolTip": "Source\\DrivingSimulator\\DrivingSimulatorPawn.h",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-27T11:37:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkyLightComponent.h",
+              "DocumentMoniker": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\SkyLightComponent.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\SkyLightComponent.h",
+              "ToolTip": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\SkyLightComponent.h [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\SkyLightComponent.h [Solo lectura]",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-27T11:09:37.383Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mynewclass.h",
+              "DocumentMoniker": "C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\Source\\DrivingSimulator\\mynewclass.h",
+              "RelativeDocumentMoniker": "Source\\DrivingSimulator\\mynewclass.h",
+              "ToolTip": "C:\\Users\\merce\\OneDrive\\MDLMAV - TFG\\DrivingAssistantSystem\\DrivingSimulator\\DrivingSimulator\\Source\\DrivingSimulator\\mynewclass.h",
+              "RelativeToolTip": "Source\\DrivingSimulator\\mynewclass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T11:01:41.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
